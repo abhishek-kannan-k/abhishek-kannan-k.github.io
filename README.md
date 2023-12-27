@@ -1,6 +1,4 @@
-# abhishek-kannan-k.github.io
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 20px;
             padding: 0;
-            background-color: #f0f0f0;
+            background-color: #000;
         }
 
         header {
