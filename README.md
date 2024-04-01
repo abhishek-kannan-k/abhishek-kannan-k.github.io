@@ -54,7 +54,7 @@
             <p>Phone: Your Phone Number</p>
         </div>
         <div class="description">
-            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisi ac urna luctus viverra.</p>
+            <p>Description:elit. Nullam nec nisi ac urna luctus viverra.</p>
         </div>
     </div>
 
